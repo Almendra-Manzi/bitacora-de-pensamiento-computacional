@@ -1,6 +1,6 @@
 # Reseña "*Ghost in the Shell*"
 
-Aclaración, estoy hablando particularment de la pelicula de 1995, **NO** la adaptación live action de 2017, tengo serios problemas con esta adaptacion por varias razones, lo explicaré más adelante.
+Aclaración, estoy hablando particularment de la pelicula de 1995, **NO** la adaptación live action de 2017, tengo serios problemas con esta adaptacion por varias razones.
 
 ## Sinopsis hecha por mi
 La película está ambientada en un futuro cyberpunk y tiene como protagonista a Motoko Kusanagi, también llamada "Mayor", una cyborg que trabaja como comandante de la sección 9, una especie de orden policial en la que 
