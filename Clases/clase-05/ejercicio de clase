@@ -1,0 +1,22 @@
+let DvD;
+let BlueDvD;
+
+let margenIzq = 10;
+let margenDer = 100;
+
+function setup() {
+  createCanvas(1000, 1000);
+  
+  DvD = loadImage("./pngegg.png");
+  BlueDvD = loadImage("./dvd-logo-azul.png")
+
+}
+
+function draw() {
+  background(220);
+  
+  image(BlueDvD, mouseX, mouseY,100,100)
+  
+}
+
+https://editor.p5js.org/SoftBlue_Ali/sketches/-I2FW_nIe
